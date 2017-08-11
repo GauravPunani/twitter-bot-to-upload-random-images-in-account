@@ -64,6 +64,7 @@
       Type:npm init
       check wether node_modules folder is therr in your project,if not
       Type:npm install twit
+      Now open the file processing-java file given in this package and save it with name rainbow in your project folder and execute it in processin-java application and check wehter a now a rainbow folder exist in your project or not with that file and a output.png file. 
       After that download the bot.js file from this project and put it into the project
       Then create a file with name config.js in your project folder
       with code 
